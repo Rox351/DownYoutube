@@ -19,10 +19,6 @@ Para executar este projeto, você precisa das seguintes bibliotecas instaladas:
 - `audioread` e `pydub`: Necessárias para a conversão de arquivos de áudio.
 - `moviepy`: Usada para converter áudio em diferentes formatos.
 
-Instale as dependências usando o comando abaixo:
-```bash
-pip install yt-dlp pydub moviepy audioread
-
 Uso da Interface:
 
 Insira o link(s) do YouTube que deseja baixar.
@@ -37,3 +33,9 @@ Este projeto é licenciado sob a MIT License.
 
 javascript
 Copiar código
+
+
+Instale as dependências usando o comando abaixo:
+```bash
+pip install yt-dlp pydub moviepy audioread
+
