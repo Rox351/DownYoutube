@@ -31,10 +31,6 @@ Desenvolvido por LeoRox351
 Licença
 Este projeto é licenciado sob a MIT License.
 
-javascript
-Copiar código
-
-
 Instale as dependências usando o comando abaixo:
 ```bash
 pip install yt-dlp pydub moviepy audioread
